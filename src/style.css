@@ -1,3 +1,7 @@
+.label {
+  display: block;
+}
+
 .groupDistance {
   margin-bottom: 20px;
 }
