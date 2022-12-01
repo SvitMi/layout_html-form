@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACE,aACF,CAEA,eACE,kBACF,CAEA,eACE,kBACF","file":"style.baebb0f3.css","sourceRoot":"..\\src","sourcesContent":[".label {\n  display: block;\n}\n\n.groupDistance {\n  margin-bottom: 20px;\n}\n\n.inputDistance {\n  margin-bottom: 10px;\n}\n"]}
